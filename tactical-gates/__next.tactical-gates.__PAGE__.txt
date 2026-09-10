@@ -2,5 +2,5 @@
 2:I[2151,["8500","static/chunks/8500-3953cc33eeceb44e.js","7083","static/chunks/app/tactical-gates/page-56b93cd4a707ad49.js"],"LegacyRedirect"]
 3:I[484,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"to":"/decision-center"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jEb9YgCNUdrUR9cTi44dl"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"to":"/decision-center"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"GYFgh9w7wsW4LjC3B91Zl"}
 5:null
