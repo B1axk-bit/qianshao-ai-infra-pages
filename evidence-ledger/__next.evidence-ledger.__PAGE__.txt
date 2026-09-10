@@ -2,5 +2,5 @@
 2:I[2151,["8500","static/chunks/8500-3953cc33eeceb44e.js","7920","static/chunks/app/evidence-ledger/page-56b93cd4a707ad49.js"],"LegacyRedirect"]
 3:I[484,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"to":"/evidence"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"pZIXZ5gvjyKtcFXiFhezI"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"to":"/evidence"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"jEb9YgCNUdrUR9cTi44dl"}
 5:null
