@@ -1,0 +1,250 @@
+{
+  "schemaVersion": 1,
+  "snapshotId": "research-2026-09-13T10-14-33-488Z-fe766674",
+  "sourceMode": "public_research_snapshot",
+  "collectedAt": "2026-09-13T10:14:33.488Z",
+  "receipts": [
+    {
+      "id": "msft-fy26-q4-ir",
+      "provider": "company_ir",
+      "label": "微软 FY2026 Q4 官方业绩披露",
+      "sourceUrl": "https://www.microsoft.com/en-us/investor/earnings/fy-2026-q4/press-release-webcast",
+      "queriedAt": "2026-09-13T10:07:58Z"
+    },
+    {
+      "id": "alphabet-q2-2026-sec",
+      "provider": "sec",
+      "label": "Alphabet 2026 Q2 SEC Exhibit 99.1",
+      "sourceUrl": "https://www.sec.gov/Archives/edgar/data/1652044/000165204426000066/googexhibit991q22026.htm",
+      "queriedAt": "2026-09-13T10:07:58Z"
+    },
+    {
+      "id": "wind-indexes-fe7666745a181ecd",
+      "provider": "Wind",
+      "label": "万得 Wind 指数行情快照",
+      "sourceUrl": "https://aifinmarket.wind.com.cn/",
+      "query": "index_data.get_index_price_indicators {\"windcode\":\"399300.SZ,000001.SH,000688.SH,399006.SZ,HSI.HI,HSTECH.HI,SPX.GI,IXIC.GI\"}",
+      "queriedAt": "2026-09-13T10:08:33.751Z",
+      "rawSha256": "fe7666745a181ecdd2f9d4a274b923e2cd4e4587872c16a913682297e5d45214"
+    }
+  ],
+  "marketQuotes": [
+    {
+      "id": "wind-399300.SZ-20260911",
+      "market": "a_share",
+      "symbol": "399300.SZ",
+      "name": "沪深300",
+      "tradeDate": "2026-09-11",
+      "observedAt": "2026-09-11T15:00:09.000+08:00",
+      "previousClose": 4548.39,
+      "unit": null,
+      "receiptId": "wind-indexes-fe7666745a181ecd",
+      "lastPrice": 4510.16
+    },
+    {
+      "id": "wind-000001.SH-20260911",
+      "market": "a_share",
+      "symbol": "000001.SH",
+      "name": "上证指数",
+      "tradeDate": "2026-09-11",
+      "observedAt": "2026-09-11T15:00:06.000+08:00",
+      "previousClose": 3934.4,
+      "unit": null,
+      "receiptId": "wind-indexes-fe7666745a181ecd",
+      "lastPrice": 3888.11
+    },
+    {
+      "id": "wind-000688.SH-20260911",
+      "market": "a_share",
+      "symbol": "000688.SH",
+      "name": "科创50",
+      "tradeDate": "2026-09-11",
+      "observedAt": "2026-09-11T15:00:06.000+08:00",
+      "previousClose": 1569.22,
+      "unit": null,
+      "receiptId": "wind-indexes-fe7666745a181ecd",
+      "lastPrice": 1553.39
+    },
+    {
+      "id": "wind-399006.SZ-20260911",
+      "market": "a_share",
+      "symbol": "399006.SZ",
+      "name": "创业板指",
+      "tradeDate": "2026-09-11",
+      "observedAt": "2026-09-11T15:00:03.000+08:00",
+      "previousClose": 3338.42,
+      "unit": null,
+      "receiptId": "wind-indexes-fe7666745a181ecd",
+      "lastPrice": 3322.04
+    },
+    {
+      "id": "wind-HSI.HI-20260911",
+      "market": "hk",
+      "symbol": "HSI.HI",
+      "name": "恒生指数",
+      "tradeDate": "2026-09-11",
+      "observedAt": "2026-09-11T16:09:53.000+08:00",
+      "previousClose": 24954.47,
+      "unit": null,
+      "receiptId": "wind-indexes-fe7666745a181ecd",
+      "lastPrice": 24805.63
+    },
+    {
+      "id": "wind-HSTECH.HI-20260911",
+      "market": "hk",
+      "symbol": "HSTECH.HI",
+      "name": "恒生科技",
+      "tradeDate": "2026-09-11",
+      "observedAt": "2026-09-11T16:09:18.000+08:00",
+      "previousClose": 4330.49,
+      "unit": null,
+      "receiptId": "wind-indexes-fe7666745a181ecd",
+      "lastPrice": 4320.57
+    },
+    {
+      "id": "wind-SPX.GI-20260911",
+      "market": "us",
+      "symbol": "SPX.GI",
+      "name": "标普500",
+      "tradeDate": "2026-09-11",
+      "observedAt": "2026-09-11T16:46:20.000-04:00",
+      "previousClose": 7591.7,
+      "unit": null,
+      "receiptId": "wind-indexes-fe7666745a181ecd",
+      "lastPrice": 7656.98
+    },
+    {
+      "id": "wind-IXIC.GI-20260911",
+      "market": "us",
+      "symbol": "IXIC.GI",
+      "name": "纳斯达克综合",
+      "tradeDate": "2026-09-11",
+      "observedAt": "2026-09-11T16:00:10.000-04:00",
+      "previousClose": 26081.72,
+      "unit": null,
+      "receiptId": "wind-indexes-fe7666745a181ecd",
+      "lastPrice": 26333.04
+    }
+  ],
+  "operatingMetrics": [
+    {
+      "id": "msft-cash-capex-2026q2",
+      "issuerId": "CIK:0000789019",
+      "issuerName": "微软",
+      "metric": "cash_capex",
+      "scope": "微软集团现金购建固定资产；以现金流量表支出绝对额列示，不含融资租赁新增额",
+      "periodStart": "2026-04-01",
+      "periodEnd": "2026-06-30",
+      "value": 35802,
+      "unit": "USD_million",
+      "publishedAt": "2026-07-29",
+      "receiptId": "msft-fy26-q4-ir",
+      "sourceLocator": "Cash Flows Statements, Three Months Ended June 30; Additions to property and equipment; 2026 / 2025",
+      "sourceCheck": {
+        "mode": "source_match",
+        "actor": "Codex",
+        "checkedAt": "2026-09-13T10:14:33Z"
+      },
+      "comparison": {
+        "value": 17079,
+        "periodStart": "2025-04-01",
+        "periodEnd": "2025-06-30",
+        "basis": "yoy"
+      }
+    },
+    {
+      "id": "msft-azure-revenue-growth-2026q2",
+      "issuerId": "CIK:0000789019",
+      "issuerName": "微软",
+      "metric": "cloud_revenue_growth_yoy",
+      "scope": "Azure 及其他云服务收入，按公司披露的名义同比口径",
+      "periodStart": "2026-04-01",
+      "periodEnd": "2026-06-30",
+      "value": 43,
+      "unit": "percent",
+      "publishedAt": "2026-07-29",
+      "receiptId": "msft-fy26-q4-ir",
+      "sourceLocator": "Selected Product and Service Information, Three Months Ended June 30, 2026; Azure and other cloud services revenue; reported Y/Y",
+      "sourceCheck": {
+        "mode": "source_match",
+        "actor": "Codex",
+        "checkedAt": "2026-09-13T10:14:33Z"
+      }
+    },
+    {
+      "id": "goog-cash-capex-2026q2",
+      "issuerId": "CIK:0001652044",
+      "issuerName": "Alphabet",
+      "metric": "cash_capex",
+      "scope": "Alphabet 集团购置固定资产现金支出；以现金流量表支出绝对额列示",
+      "periodStart": "2026-04-01",
+      "periodEnd": "2026-06-30",
+      "value": 44924,
+      "unit": "USD_million",
+      "publishedAt": "2026-07-22",
+      "receiptId": "alphabet-q2-2026-sec",
+      "sourceLocator": "Consolidated Statements of Cash Flows, Quarter Ended June 30; Purchases of property and equipment; 2025 / 2026",
+      "sourceCheck": {
+        "mode": "source_match",
+        "actor": "Codex",
+        "checkedAt": "2026-09-13T10:14:33Z"
+      },
+      "comparison": {
+        "value": 22446,
+        "periodStart": "2025-04-01",
+        "periodEnd": "2025-06-30",
+        "basis": "yoy"
+      }
+    },
+    {
+      "id": "goog-cloud-revenue-2026q2",
+      "issuerId": "CIK:0001652044",
+      "issuerName": "Alphabet",
+      "metric": "cloud_revenue",
+      "scope": "Google Cloud 分部收入；包括基础设施、平台、应用、Workspace及TPU产品等",
+      "periodStart": "2026-04-01",
+      "periodEnd": "2026-06-30",
+      "value": 24768,
+      "unit": "USD_million",
+      "publishedAt": "2026-07-22",
+      "receiptId": "alphabet-q2-2026-sec",
+      "sourceLocator": "Segment Results, Quarter Ended June 30; Revenues: Google Cloud; 2025 / 2026",
+      "sourceCheck": {
+        "mode": "source_match",
+        "actor": "Codex",
+        "checkedAt": "2026-09-13T10:14:33Z"
+      },
+      "comparison": {
+        "value": 13624,
+        "periodStart": "2025-04-01",
+        "periodEnd": "2025-06-30",
+        "basis": "yoy"
+      }
+    },
+    {
+      "id": "goog-cloud-operating-income-2026q2",
+      "issuerId": "CIK:0001652044",
+      "issuerName": "Alphabet",
+      "metric": "cloud_operating_income",
+      "scope": "Google Cloud 分部营业利润；部分AI研发费用计入Alphabet层面，不能据此计算整体AI投资回报",
+      "periodStart": "2026-04-01",
+      "periodEnd": "2026-06-30",
+      "value": 8814,
+      "unit": "USD_million",
+      "publishedAt": "2026-07-22",
+      "receiptId": "alphabet-q2-2026-sec",
+      "sourceLocator": "Segment Results, Quarter Ended June 30; Operating income: Google Cloud; 2025 / 2026",
+      "sourceCheck": {
+        "mode": "source_match",
+        "actor": "Codex",
+        "checkedAt": "2026-09-13T10:14:33Z"
+      },
+      "comparison": {
+        "value": 2826,
+        "periodStart": "2025-04-01",
+        "periodEnd": "2025-06-30",
+        "basis": "yoy"
+      }
+    }
+  ]
+}
