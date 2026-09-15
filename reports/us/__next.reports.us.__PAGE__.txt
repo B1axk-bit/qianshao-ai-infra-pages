@@ -1,6 +1,6 @@
 1:"$Sreact.fragment"
-2:I[6775,["8500","static/chunks/8500-3953cc33eeceb44e.js","5427","static/chunks/5427-0e834ded11d2f48d.js","6775","static/chunks/6775-845334e7134a703a.js","7887","static/chunks/app/reports/us/page-e896a793db772770.js"],"MarketDailyPage"]
+2:I[6775,["8500","static/chunks/8500-3953cc33eeceb44e.js","5427","static/chunks/5427-2aa733e071d11a17.js","6775","static/chunks/6775-845334e7134a703a.js","7887","static/chunks/app/reports/us/page-e896a793db772770.js"],"MarketDailyPage"]
 3:I[484,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"market":"us"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"GbMwb9pHzAqjuG_wczxYh"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"market":"us"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"4SVfBQgQuTUk-l1o0CSuD"}
 5:null
