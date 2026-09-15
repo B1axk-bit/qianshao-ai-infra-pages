@@ -2,5 +2,5 @@
 2:I[6775,["8500","static/chunks/8500-3953cc33eeceb44e.js","5427","static/chunks/5427-0e834ded11d2f48d.js","6775","static/chunks/6775-845334e7134a703a.js","1154","static/chunks/app/reports/hk/page-e896a793db772770.js"],"MarketDailyPage"]
 3:I[484,[],"OutletBoundary"]
 4:"$Sreact.suspense"
-0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"market":"hk"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"-NgBPWMOu6FcXkqTS2-1d"}
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"market":"hk"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"GbMwb9pHzAqjuG_wczxYh"}
 5:null
