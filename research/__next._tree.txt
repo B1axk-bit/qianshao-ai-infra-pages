@@ -1,2 +1,2 @@
 :HL["/qianshao-ai-infra-pages/_next/static/css/9349f00769dbeace.css","style"]
-0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"research","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"Xrj7kHc1tfO-pQEuqI0d5"}
+0:{"tree":{"name":"","param":null,"prefetchHints":20,"slots":{"children":{"name":"research","param":null,"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}},"staleTime":300,"buildId":"E-jYQpS5ebAodS3cevLtS"}
