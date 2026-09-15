@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[2998,["8500","static/chunks/8500-3953cc33eeceb44e.js","924","static/chunks/924-744a8a5d41a64209.js","2998","static/chunks/2998-e92dcbf6eb03cebc.js","1154","static/chunks/app/reports/hk/page-f3a57ebc11737bf1.js"],"MarketDailyPage"]
+3:I[484,[],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[["$","$L2",null,{"market":"hk"}],null,["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Q-Epy3Qge-iZPdx-XhlzV"}
+5:null

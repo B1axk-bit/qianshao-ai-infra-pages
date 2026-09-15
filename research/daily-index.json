@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "updatedAt": "2026-09-14T18:07:17.178Z",
+  "entries": [
+    {
+      "market": "hk",
+      "date": "2026-09-14",
+      "edition": "daily",
+      "asOf": "2026-09-14T16:08:28.000+08:00",
+      "snapshotId": "research-2026-09-14T18-07-17-178Z-611a7073"
+    },
+    {
+      "market": "a_share",
+      "date": "2026-09-14",
+      "edition": "daily",
+      "asOf": "2026-09-14T15:00:06.000+08:00",
+      "snapshotId": "research-2026-09-14T18-07-17-178Z-611a7073"
+    },
+    {
+      "market": "us",
+      "date": "2026-09-14",
+      "edition": "intraday",
+      "asOf": "2026-09-14T14:07:09.000-04:00",
+      "snapshotId": "research-2026-09-14T18-07-17-178Z-611a7073"
+    }
+  ]
+}
